@@ -1,10 +1,11 @@
-{
-  "latest_version": "1.34",
-  "download_url": "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.34/SmartProductStudio_Setup_v1.34.exe",
-  "notes": [
-    "v1.34：背景风格下拉分组收纳（★收藏/室内/室外/热门），鼠标指向组头在侧方弹出子风格框",
-    "侧方子框常驻不闪烁，向上扩展显示，白底不透明、hover亮色",
-    "窗口支持边缘拉伸大小",
-    "热门风格按类目化（12类目×3条，描述词按类目替换）"
-  ]
+﻿{
+    "latest_version":  "1.35",
+    "download_url":  "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.35/SmartProductStudio_Setup_v1.35.exe",
+    "notes":  [
+                  "v1.35：热门风格新增 1200 个（12类目×100，场景·色调命名，整组统一+实拍段）",
+                  "随机模式新增范围选择（全部/室内/户外/热门/收藏），大文件夹子文件夹组间随机不同、组内统一",
+                  "图片/文件夹选择框升级：大缩略图+搜索框+底部文件名栏，缩略图异步加载（大目录不再卡顿未响应）",
+                  "EXIF 组内完全一致、跨批次随机换机型换参数",
+                  "背景风格描述词全库统一含二手卖家实拍段（幂等不重复）"
+              ]
 }
