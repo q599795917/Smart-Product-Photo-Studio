@@ -1,5 +1,9 @@
 {
-  "latest_version": "1.32",
-  "download_url": "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.32/SmartProductStudio_Setup_v1.32.exe",
-1.32：新增在线更新检查”, “优化已知问题”, “添加了同套图EXIF一致”]
+  "latest_version": "1.33",
+  "download_url": "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.33/SmartProductStudio_Setup_v1.33.exe",
+  "notes": [
+    "v1.33：修复清晰度设置未真实生效（现在低/中/高会正确传给改图API）",
+    "新增在线更新检查",
+    "支持多地址兜底检查"
+  ]
 }
