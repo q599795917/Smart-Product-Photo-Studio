@@ -1,11 +1,13 @@
 {
-    "latest_version":  "1.36",
-    "download_url":  "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.36/SmartProductStudio_Setup_v1.36.exe",
-    "notes":  [
-                  "v1.36：文案生成窗口标题改为「看图生成文案」",
-                  "EXIF 拍摄时间改为所选时区当前时间往前 0~30 分钟内随机",
-                  "文件创建/修改/访问时间同步为 EXIF 拍摄时间（失败自动记录 error.log）",
-                  "热门风格新增 1200 个（12类目×100，整组统一+实拍段）",
-                  "图片/文件夹选择框升级：大缩略图+搜索框，异步加载不卡顿"
-              ]
+  "latest_version": "1.37",
+  "download_url": "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.37/SmartProductStudio_Setup_v1.37.exe",
+  "notes": [
+    "v1.37：下拉框点击才选择，屏蔽鼠标悬停滚轮误改设置",
+    "v1.37：主界面新增「检查更新」按钮，点击立即检查新版本",
+    "v1.36：文案生成窗口标题改为「看图生成文案」",
+    "EXIF 拍摄时间改为所选时区当前时间往前 0~30 分钟内随机",
+    "文件创建/修改/访问时间同步为 EXIF 拍摄时间（失败自动记录 error.log）",
+    "热门风格新增 1200 个（12类目×100，整组统一+实拍段）",
+    "图片/文件夹选择框升级：大缩略图+搜索框，异步加载不卡顿"
+  ]
 }
