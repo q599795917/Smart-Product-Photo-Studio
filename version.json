@@ -1,11 +1,11 @@
-﻿{
-    "latest_version":  "1.35",
-    "download_url":  "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.35/SmartProductStudio_Setup_v1.35.exe",
+{
+    "latest_version":  "1.36",
+    "download_url":  "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.36/SmartProductStudio_Setup_v1.36.exe",
     "notes":  [
-                  "v1.35：热门风格新增 1200 个（12类目×100，场景·色调命名，整组统一+实拍段）",
-                  "随机模式新增范围选择（全部/室内/户外/热门/收藏），大文件夹子文件夹组间随机不同、组内统一",
-                  "图片/文件夹选择框升级：大缩略图+搜索框+底部文件名栏，缩略图异步加载（大目录不再卡顿未响应）",
-                  "EXIF 组内完全一致、跨批次随机换机型换参数",
-                  "背景风格描述词全库统一含二手卖家实拍段（幂等不重复）"
+                  "v1.36：文案生成窗口标题改为「看图生成文案」",
+                  "EXIF 拍摄时间改为所选时区当前时间往前 0~30 分钟内随机",
+                  "文件创建/修改/访问时间同步为 EXIF 拍摄时间（失败自动记录 error.log）",
+                  "热门风格新增 1200 个（12类目×100，整组统一+实拍段）",
+                  "图片/文件夹选择框升级：大缩略图+搜索框，异步加载不卡顿"
               ]
 }
