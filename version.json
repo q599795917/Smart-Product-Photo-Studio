@@ -1,10 +1,9 @@
 {
-  "latest_version": "1.37",
-  "download_url": "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.37/SmartProductStudio_Setup_v1.37.exe",
+  "latest_version": "1.38",
+  "download_url": "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.38/SmartProductStudio_Setup_v1.38.exe",
   "notes": [
-    "v1.37：下拉框点击才选择，屏蔽鼠标悬停滚轮误改设置",
-    "v1.37：主界面新增「检查更新」按钮，点击立即检查新版本",
-    "v1.36：文案生成窗口标题改为「看图生成文案」",
+    "v1.38：卡密管理器新增「禁用/启用」——云端禁用后客户软件启动将无法使用（断网本地照常）",
+    "v1.38：客户端启动自动检查云端禁用标记，命中则退出到激活页面",
     "EXIF 拍摄时间改为所选时区当前时间往前 0~30 分钟内随机",
     "文件创建/修改/访问时间同步为 EXIF 拍摄时间（失败自动记录 error.log）",
     "热门风格新增 1200 个（12类目×100，整组统一+实拍段）",
