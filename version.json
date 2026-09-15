@@ -1,7 +1,7 @@
-{
-  "latest_version": "1.40",
-  "download_url": "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.40/SmartProductStudio_Setup_v1.40.exe",
+﻿{
+  "latest_version": "1.41",
+  "download_url": "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.41/SmartProductStudio_Setup_v1.41.exe",
   "notes": [
-    "核心逻辑加密加固，防破解防篡改"
+    "下载更新完成后自动启动安装程序"
   ]
 }
