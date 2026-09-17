@@ -1,14 +1,18 @@
 {
-  "latest_version": "1.43",
-  "download_url": "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.43/SmartProductStudio_Setup_v1.43.exe",
+  "latest_version": "1.44",
+  "download_url": "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.44/SmartProductStudio_Setup_v1.44.exe",
   "notes": [
-    "选择图片/文件夹改为 Windows 原生对话框（图片缩略图、文件夹列表）",
-    "输出目录『打开』直达最近生成的子文件夹（重启后仍有效）",
+    "EXIF 机型库扩充：苹果 iPhone 17/16/15/14/13 全系列 13 款",
+    "西欧常用安卓：三星 S24 Ultra/S24/S23/A55/A54、华为 P60 Pro/Mate 60 Pro、小米 14/13、Pixel 9 Pro/8 等",
+    "机型库合计 45 款（37 手机 + 8 相机），随机更丰富",
+    "失败图片自动补跑 2 次：生成失败自动重试，仍失败可一键补跑（按原背景风格要求）",
+    "在线轮询弹窗：正在使用的客户每 60 秒收到新公告/新版提示",
+    "检查更新容错：version.json 有小格式问题也能正常解析"
   ],
   "notice": {
     "enabled": true,
-    "title": "欢迎使用 v1.43",
-    "content": "本次更新：\n1. 选择图片/文件夹改为 Windows 原生对话框，更稳定易用；\n2. 输出目录『打开』直达最近生成的文件夹；\n\n如遇任何问题请联系作者。",
+    "title": "欢迎使用 v1.44",
+    "content": "本次更新：\n1. EXIF 机型库大幅扩充至 45 款（苹果全系列 + 西欧常用安卓）；\n2. 失败图片自动补跑 2 次，仍失败可一键补跑（按原背景风格要求）；\n3. 在线轮询：运行中也能收到新公告/新版提示；\n4. 检查更新更稳定（容错解析）。\n\n如遇任何问题请联系作者。",
     "once": true
   }
 }
