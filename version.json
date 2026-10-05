@@ -1,17 +1,19 @@
 {
-  "latest_version": "1.52",
-  "download_url": "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.52/SmartProductStudio_Setup_v1.52.exe",
+  "latest_version": "1.53",
+  "download_url": "https://github.com/q599795917/Smart-Product-Photo-Studio/releases/download/v1.53/SmartProductStudio_Setup_v1.53.exe",
   "notes": [
-    "修复图片库每次重新打开都需要重新选择文件夹的问题",
-    "图片库会记住最后打开的根目录，软件重启或界面重建后自动恢复并重新加载预览",
-    "如果上次选择的文件夹已被移动或删除，图片库会回到未选择状态，不会报错",
-    "保留 1.51 的图片库、图片生成、文案生成、生成记录、设置、卡密与更新功能"
+    "新增 MoAI 服务商（https://image.moai.wiki/），置于服务商下拉第一位并标记为推荐",
+    "修复 MoAI『获取 API Key』误跳转到 MHOO 官网的问题",
+    "生成完成弹窗支持点击任意位置打开结果文件夹，Windows 托盘通知点击同样可跳转",
+    "生成过程中出一张显示一张，结果区流式刷新，不必等整组完成",
+    "风格选择弹窗的卡片标题补上环境前缀（如【室内+摆拍】），并支持按前缀搜索",
+    "保留 1.52 的图片库、图片生成、文案生成、生成记录、设置、卡密与更新功能"
   ],
   "notice": {
     "enabled": true,
-    "title": "v1.52 更新说明",
-    "content": "本次更新：\n1. 图片库会记住上次打开的文件夹；\n2. 软件重启后自动恢复图片库，无需重新选择；\n3. 如果原文件夹不存在，将安全回退到未选择状态；\n4. 其他功能保持不变。",
+    "title": "v1.53 更新说明",
+    "content": "本次更新：\n1. 新增 MoAI 服务商（image.moai.wiki），列在第一位并标记推荐；\n2. 修复 MoAI『获取 API Key』跳到 MHOO 的问题；\n3. 生成完成弹窗/托盘通知可点击直接打开结果文件夹；\n4. 出图流式显示，生成一张显示一张；\n5. 风格选择卡片补上【室内+摆拍】这类环境前缀。",
     "once": true,
-    "id": "v1.52-20261006-libraryroot"
+    "id": "v1.53-20261006-moai-recommend"
   }
 }
